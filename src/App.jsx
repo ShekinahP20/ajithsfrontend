@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div >
-        <h1>app page</h1>
+        <h1>hello </h1>
         </div>
         <Aboutus />
       </>
